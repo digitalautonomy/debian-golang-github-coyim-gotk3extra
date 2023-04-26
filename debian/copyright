@@ -1,0 +1,16 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: gotk3extra
+Upstream-Contact: TODO
+Source: https://github.com/coyim/gotk3extra
+
+Files: *
+Copyright: 2020 CoyIM messenger client
+License: GPL-3.0
+
+Files: debian/*
+Copyright: 2023 CAD Debian Packager <debian-packager@autonomia.digital>
+License: GPL-3.0
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: GPL-3.0
+ TODO
