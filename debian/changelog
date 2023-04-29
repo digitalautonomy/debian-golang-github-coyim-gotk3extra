@@ -1,4 +1,4 @@
-golang-github-coyim-gotk3extra (0.0.2-1) UNRELEASED; urgency=medium
+golang-github-coyim-gotk3extra (0.0.2-1) unstable; urgency=medium
 
   * Initial release (Closes: TODO)
   * New upstream release (c86f07a)
